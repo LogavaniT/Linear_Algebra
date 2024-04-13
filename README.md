@@ -1,1 +1,1 @@
-# Learn Linear Algebra – The coding way
+# Linear Algebra – The coding way
